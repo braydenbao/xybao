@@ -1,0 +1,69 @@
+.contents {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.top-msg {
+    width: 100%;
+    height: 180px;
+    box-shadow: 0px 1px 2px 0px rgb(223, 223, 223);
+}
+
+.top-msg .msg-text {
+    width: 1265px;
+    margin: 0 auto;
+    padding-top: 22px;
+}
+
+.top-msg .msg-title {
+    font-size: 45px;
+    color: red;
+    margin: 10px 0;
+}
+
+.top-msg .message {
+    font-size: 28px;
+    font-family: 宋体;
+    font-weight: bold;
+}
+
+.article-list {
+    width: 1300px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.article-list .article-msg {
+    float: left;
+    width: 600px;
+    height: 200px;
+    padding: 50px 20px;
+}
+
+.article-list .article-msg a {
+    text-decoration: none;
+    color: #000;
+}
+
+.article-list .article-msg .time {
+    font-size: 18px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.article-list .article-msg .title {
+    font-size: 35px;
+    font-family: 微软雅黑;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.article-list .article-msg .abstract {
+    font-size: 19px;
+}
+
+.article-list .article-msg .turn {
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
+}

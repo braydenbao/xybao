@@ -1,0 +1,103 @@
+.contents {
+    /* background-color: rgb(173, 153, 153); */
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.contents .title {
+    font-size: 45px;
+    color: red;
+    font-weight: 500;
+    /* font-family: 黑体; */
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contents .text {
+    font-size: 24px;
+    font-family: 楷体;
+    text-indent: 2em;
+    margin-top: 20px;
+}
+
+.contents .text p {
+    margin: 15px 0;
+}
+
+.form {
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+form .button p {
+    text-align: center;
+}
+
+.name {
+    height: 20px;
+    width: 750px;
+    padding: 0.8em 1em;
+    font-size: 20px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: 'Times new roman',楷体;
+}
+
+textarea {
+    height: 150px;
+    width: 750px;
+    min-height: 6em;
+    padding: 1em;
+    margin-bottom: .5em;
+    resize: none;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'Times new roman',楷体;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-family: 华文中宋;
+    font-weight: bold;
+    font-size: 27px;
+    color: red;
+    background-color: #fff;
+    border: 2px solid red;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+button:hover {
+    width: 200px;
+    height: 50px;
+    font-family: 华文中宋;
+    font-weight: bold;
+    font-size: 27px;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+.contents .form p {
+    font-size: 23px;
+    font-family: 'Times new roman',楷体;
+    /* text-indent: 2em; */
+    margin-top: 20px;
+    margin: 15px 0;
+}
+
+.contents .form a {
+    text-decoration: none;
+    color: #000;
+}

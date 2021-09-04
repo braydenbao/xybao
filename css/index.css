@@ -1,0 +1,12 @@
+.intro {
+    background-color: red;
+    height: 260px;
+}
+
+.intro .text {
+    padding: 55px 160px;
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+    font-family: 华文中宋;
+}

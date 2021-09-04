@@ -1,0 +1,30 @@
+.contents {
+    /* background-color: rgb(173, 153, 153); */
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.contents .title {
+    font-size: 45px;
+    color: red;
+    font-weight: 500;
+    /* font-family: 黑体; */
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contents .text {
+    font-size: 24px;
+    font-family: 楷体;
+    text-indent: 2em;
+    margin-top: 20px;
+}
+
+.contents .text p {
+    margin: 15px 0;
+}
+
+.contents .text img {
+    width: 1000px;
+}
